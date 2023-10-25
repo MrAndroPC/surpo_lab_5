@@ -2,3 +2,4 @@ everything fine
 still fine
 something new
 comments
+error
